@@ -1,0 +1,4 @@
+﻿  Źródło.cpp
+Ćrˇd│o.obj : error LNK2019: nierozpoznany zewnŕtrzny symbol _circle przywo│any w funkcji _main
+Ćrˇd│o.obj : error LNK2019: nierozpoznany zewnŕtrzny symbol _initgraph przywo│any w funkcji _graphics
+C:\Users\bkosc\Desktop\inf\Info II\Instrukcja I\Debug\Instrukcja I.exe : fatal error LNK1120: liczba nierozpoznanych elementˇw zewnŕtrznych: 2
