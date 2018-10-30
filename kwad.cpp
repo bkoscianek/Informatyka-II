@@ -32,3 +32,6 @@ double simpson(float a, float b, double(*pf)(double), int n)
 	}
 	return suma * h / 3.;
 }
+
+
+printf("siusiaczek")
